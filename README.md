@@ -1,6 +1,6 @@
 # MR museum
 
-香港浸会大学（HKBU）开发的 Unity VR 博物馆漫游项目，面向 Meta Quest 头显，支持 360° 全景展厅浏览与展区切换。
+HZT开发的 Unity VR 博物馆漫游项目，面向 Meta Quest 头显，支持 360° 全景展厅浏览与展区切换。
 
 ## 概述
 
@@ -130,9 +130,9 @@ Assets/Resources/Materials/
 2. 平台选择 **Android**
 3. 确认场景列表包含 `Assets/Scenes/SampleScene.unity`
 4. **Player Settings** 中确认：
-   - Company Name: `HKBU`
+   - Company Name: `HZT`
    - Product Name: `MR museum`
-   - Package Name: `com.HKBU.MRmuseum`
+   - Package Name: `com.HZT.MRmuseum`
    - Minimum API Level: Android 10 (API 29)
    - XR Plug-in Management → Oculus 已启用
 
@@ -184,7 +184,7 @@ Assets/Resources/Materials/
 ## 许可证
 
 - `TeleportPoint.cs`、`ColumnGlow.shader` 来自 Meta Sample Framework，遵循其许可条款
-- 其余自定义脚本版权归 HKBU 所有
+- 其余自定义脚本版权归 HZT 所有
 
 ## 相关链接
 
