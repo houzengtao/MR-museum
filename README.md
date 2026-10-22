@@ -5,6 +5,8 @@ HZT开发的 Unity VR 博物馆漫游项目，面向 Meta Quest 头显，支持 
 ## 概述
 
 本项目基于 Unity URP 模板构建，使用 Meta XR SDK 实现 VR 交互。核心玩法是：用户站在场景原点，通过旋转、平移包裹相机的全景球体来模拟在博物馆中移动，并使用控制器射线指向标记点切换不同展厅的全景贴图。
+用unity打开本项目后，如果没有看到任何物体，请手动双击SampleScene打开例子场景。SampleScene的具体位置如下：
+<img width="1380" height="891" alt="fe131d87-c5fa-4a6a-abdc-32ebbc443fd6" src="https://github.com/user-attachments/assets/77b64213-001b-47b6-9ddc-02fff38b818a" />
 
 当前工程包含两套内容：
 
